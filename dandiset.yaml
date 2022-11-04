@@ -36,7 +36,7 @@ assetsSummary:
   - Units
   - ProcessingModule
 citation: Xu, Duo; Chen, Yuxi; Dong, Mingyuan; Delgado, Angel M; Hughes, Natasha C;
-  Zhang, Linghua; OConnor, Daniel H (2022) Cortical processing of flexible and context-dependent
+  Zhang, Linghua; O'Connor, Daniel H (2022) Cortical processing of flexible and context-dependent
   sensorimotor sequences (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000239/draft
 contributor:
 - affiliation: []
@@ -86,7 +86,7 @@ contributor:
   email: dan.oconnor@jhmi.edu
   identifier: 0000-0002-9193-6714
   includeInCitation: true
-  name: OConnor, Daniel H
+  name: O'Connor, Daniel H
   roleName:
   - dcite:Author
   - dcite:ContactPerson
@@ -127,7 +127,7 @@ protocol: []
 relatedResource:
 - identifier: 10.1038/s41586-022-04478-7
   name: Cortical processing of flexible and context-dependent sensorimotor sequences
-  relation: dcite:IsPublishedIn
+  relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1038/s41586-022-04478-7
 repository: https://dandiarchive.org
