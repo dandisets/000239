@@ -36,7 +36,7 @@ assetsSummary:
   - Units
   - ProcessingModule
 citation: Xu, Duo; Chen, Yuxi; Dong, Mingyuan; Delgado, Angel M; Hughes, Natasha C;
-  Zhang, Linghua; O'Connor, Daniel H (2022) Cortical processing of flexible and context-dependent
+  Zhang, Linghua; O'Connor, Daniel H (2023) Cortical processing of flexible and context-dependent
   sensorimotor sequences (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000239/draft
 contributor:
 - affiliation: []
@@ -101,6 +101,7 @@ contributor:
   schemaKey: Organization
   url: http://www.nih.gov/
 dateCreated: '2022-04-21T13:39:44.869169+00:00'
+datePublished: '2023-06-07T17:52:00.221598+00:00'
 description: The brain generates complex sequences of movements that can be flexibly
   configured based on behavioural context or real-time sensory feedback, but how this
   occurs is not fully understood. Here we developed a ‘sequence licking’ task in which
@@ -124,6 +125,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000239/versions/draft/assets/
 name: Cortical processing of flexible and context-dependent sensorimotor sequences
 protocol: []
+publishedBy:
+  endDate: '2023-06-07T17:52:00.221598+00:00'
+  id: urn:uuid:9c55780b-aee9-472e-b459-5c5f851d7394
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-06-07T17:52:00.221598+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:70532ba7-0a86-4561-a7fd-c8db7cca55ac
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: 10.1038/s41586-022-04478-7
   name: Cortical processing of flexible and context-dependent sensorimotor sequences
