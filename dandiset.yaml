@@ -17,11 +17,11 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 11769901909
   numberOfFiles: 754
@@ -33,11 +33,11 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - BehavioralTimeSeries
-  - Units
   - ProcessingModule
+  - Units
 citation: Xu, Duo; Chen, Yuxi; Dong, Mingyuan; Delgado, Angel M; Hughes, Natasha C;
   Zhang, Linghua; O'Connor, Daniel H (2023) Cortical processing of flexible and context-dependent
-  sensorimotor sequences (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000239/draft
+  sensorimotor sequences (Version 0.230607.1752) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000239/0.230607.1752
 contributor:
 - affiliation: []
   email: dxu14@jhmi.edu
@@ -115,14 +115,15 @@ description: The brain generates complex sequences of movements that can be flex
   execution. Movement-nonspecific sequence branching signals occurred in the anterolateral
   motor cortex and M1TJ. Our results reveal a set of key cortical areas for flexible
   and context-informed sequence generation.
+doi: 10.48324/dandi.000239/0.230607.1752
 ethicsApproval: []
-id: DANDI:000239/draft
+id: DANDI:000239/0.230607.1752
 identifier: DANDI:000239
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000239/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000239/0.230607.1752/assets.yaml
 name: Cortical processing of flexible and context-dependent sensorimotor sequences
 protocol: []
 publishedBy:
@@ -147,6 +148,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000239/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000239/0.230607.1752
+version: 0.230607.1752
 wasGeneratedBy: []
